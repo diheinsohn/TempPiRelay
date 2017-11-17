@@ -1,0 +1,4 @@
+ferm: 19
+diac: 22
+madu: 3
+dryh: 13

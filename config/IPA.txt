@@ -1,0 +1,4 @@
+Ferm: 19
+Diac: 22
+Madu: 3
+dryh: 15

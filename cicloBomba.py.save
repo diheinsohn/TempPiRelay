@@ -1,0 +1,15 @@
+import os
+import subprocess
+import signal
+import sys
+import glob
+import time
+from time import strftime
+
+
+while True:
+	subprocess.call('./cli.js reset', shell=True)
+	subprocess.call('./cli.js on 15', shell=True)
+	time.sleep(5)
+	subprocess.call('./cli.js off 15', shell=True)
+	time.sleep(20)

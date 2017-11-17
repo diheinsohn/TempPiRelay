@@ -1,0 +1,3 @@
+Ferm: 20
+Diac: 22
+Madu: 3
